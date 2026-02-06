@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+.main-class{
+    display: flex;
+    header{
+        min-height: 100vh;
+        background-color: chocolate;
+        width: 15%;
+    }
+   
+}
+
+.body-container{
+    background-color: cadetblue;
+    min-width: 85%;
+}
