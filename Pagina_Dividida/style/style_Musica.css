@@ -1,0 +1,81 @@
+h1,
+h2,
+p {
+    margin: 0;
+    padding: 0;
+    color: #dee2e6;
+    font-family: "Playwrite NZ Basic";
+    text-align: justify;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(236, 70, 70);
+}
+
+.body-container {
+    background-color: #161a1d;
+}
+
+.main-container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.top-container {
+    width: 60%;
+    margin-bottom: 3rem;
+}
+
+.elements-container {
+    background-color: #660708;
+    margin: 25px;
+    padding: 25px;
+
+    .img-container {
+        .img-elements {
+            display: flex;
+            justify-content: space-between;
+            img {
+                width: 45%;
+                height: 175px;
+                margin: 10px;
+
+            }
+        }
+    }
+}
+
+.main-container-ruts{
+    display: flex;
+    justify-content: center;
+}
+
+.ruts-top{
+    width: 60%;
+    margin-top: 2rem;
+}
+
+.elements-container-ruts{
+    background-color: #660708;
+    margin: 25px;
+    padding: 25px;
+
+    .ruts-elements{
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .enlace-Automovilismo{
+        color: #fdf0d5;
+        text-decoration: none;
+        font-weight: bold;
+        .enlace-Automovilismo:hover{
+            color: #ffd60a;
+            text-decoration: underline;
+        }
+        
+    }
+}
