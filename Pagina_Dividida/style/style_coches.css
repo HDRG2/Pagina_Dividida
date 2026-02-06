@@ -89,3 +89,21 @@ p {
         font-weight: bold;  
     }
 
+.enlace-Musica{
+    color: #fdf0d5;
+    text-decoration: none;
+    font-weight: bold;  
+}
+
+.enlace-Peliculas{
+    color: #fdf0d5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.enlace-Videojuegos{
+    color: #fdf0d5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
