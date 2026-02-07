@@ -1,9 +1,6 @@
-body,a {
+body {
     margin: 0;
-    color: white;
-    font-size: 20px;
-    display: block;  /* ← 20px arriba/abajo, 15px izquierda/derecha */
-    width: 100%;
+   
 }
 .main-class{
     display: flex;
